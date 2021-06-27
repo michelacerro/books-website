@@ -3,11 +3,13 @@ Project for start2impact
 
 ## Description
 ### General description
-A React app to search for books in a large catalogue and find all the information about them. <br />
-How it works is simple: register, or login, and start searching! <br />
-All you have to do is enter a search criterion and scroll through the results. You will be presented with a list of books of which some information will be visible (depending on availability): the cover, title, author, reviews score and category. Clicking on each of them will open a second page with all the information about it.
-
-
+A React app to search books in a large catalogue. <br /> <br />
+How it works: 
+1. Register or login
+2. Enter a search criterion
+3. The result is a list of books matching the search criterion
+4. Scroll through the results 
+5. Click on an element will open a second page with more details
 
 
 ### Tecnical description 
