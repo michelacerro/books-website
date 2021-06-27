@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/books-website/static/css/main.10a7765a.chunk.css",
+    "main.js": "/books-website/static/js/main.b8ccd3d5.chunk.js",
+    "main.js.map": "/books-website/static/js/main.b8ccd3d5.chunk.js.map",
+    "runtime-main.js": "/books-website/static/js/runtime-main.72209209.js",
+    "runtime-main.js.map": "/books-website/static/js/runtime-main.72209209.js.map",
+    "static/js/2.55010167.chunk.js": "/books-website/static/js/2.55010167.chunk.js",
+    "static/js/2.55010167.chunk.js.map": "/books-website/static/js/2.55010167.chunk.js.map",
+    "static/js/3.1e892cc2.chunk.js": "/books-website/static/js/3.1e892cc2.chunk.js",
+    "static/js/3.1e892cc2.chunk.js.map": "/books-website/static/js/3.1e892cc2.chunk.js.map",
+    "index.html": "/books-website/index.html",
+    "static/css/main.10a7765a.chunk.css.map": "/books-website/static/css/main.10a7765a.chunk.css.map",
+    "static/js/2.55010167.chunk.js.LICENSE.txt": "/books-website/static/js/2.55010167.chunk.js.LICENSE.txt",
+    "static/media/Home.module.css": "/books-website/static/media/bookshelf.cc5c9912.jpg",
+    "static/media/cover.acfdf6e6.jpg": "/books-website/static/media/cover.acfdf6e6.jpg",
+    "static/media/Error.module.css": "/books-website/static/media/error.32062c0e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72209209.js",
+    "static/js/2.55010167.chunk.js",
+    "static/css/main.10a7765a.chunk.css",
+    "static/js/main.b8ccd3d5.chunk.js"
+  ]
+}
