@@ -28,7 +28,7 @@ const Signup = () => {
         }
         try {
             await signup(email.value, password.value);
-            history.push('/search');
+            history.push('/login');
         } catch (error) {
             alert(`Failed to create an account: ${error}`);
         };

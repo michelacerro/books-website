@@ -50,7 +50,7 @@ const Navbar = () => {
                         </button>
                         <div className={NavbarCSS['divider']}></div>
                         <button className={NavbarCSS['navbar-item']} onClick={showMenu}>
-                            <Link to='/Logout' className={NavbarCSS['navbar-links']}>Log Out</Link>
+                            <Link to='/logout' className={NavbarCSS['navbar-links']}>Log Out</Link>
                         </button>
                      </ul>
                 </div>
