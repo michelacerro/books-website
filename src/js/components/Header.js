@@ -22,7 +22,7 @@ const Header = () => {
     return (
         <div className={HeaderCSS['header']}>
             <div className={HeaderCSS['container']}>
-                <Link to='/' className={HeaderCSS['link']}>Bookland</Link>
+                <Link to='/books-website' className={HeaderCSS['link']}>Bookland</Link>
                 <div className={HeaderCSS['state']}>
                     {!log ?
                             <Link to='/login'><Button text='Log In' /></Link>

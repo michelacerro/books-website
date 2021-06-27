@@ -34,7 +34,7 @@ const Navbar = () => {
                 <div className={NavbarCSS['navbar']}>
                     <ul className={NavbarCSS['navbar-list']}>
                         <button className={NavbarCSS['navbar-item']} onClick={showMenu}>
-                            <Link to='/' className={NavbarCSS['navbar-links']}>Home</Link>
+                            <Link to='/books-website' className={NavbarCSS['navbar-links']}>Home</Link>
                         </button>
                         <div className={NavbarCSS['divider']}></div>
                         <button className={NavbarCSS['navbar-item']} onClick={showMenu}>
