@@ -2,7 +2,7 @@
   "name": "books-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://michelacerro.github.io/books-website", 
+  "homepage": "https://michelacerro.github.io/books-website",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
@@ -16,7 +16,7 @@
     "react-redux": "^7.2.4",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^4.0.3",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
